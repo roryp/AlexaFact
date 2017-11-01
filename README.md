@@ -1,4 +1,4 @@
-Welcome to the AWS CodeStar sample Alexa Skill
+Welcome to the AWS CodeStar sample Alexa Skill 
 ==============================================
 
 This sample code helps get you started with a simple skill built with the
